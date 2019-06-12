@@ -5,3 +5,16 @@ Methods considered include:
 * XGBoost
 * Random Forest Regression
 * ARIMA
+
+Goals:
+
+* Identify a method of optimally, algorithmically generating lagged factors.
+* Identify differences between methods:
+  * Describe why one method is more robust to another.
+  * Describe penalty terms and their purpose.
+  * Compare generalizability of different methods.
+    * Skedasticity
+    * Autocorrelation of residuals
+    * Perfomance of Nested Validation
+  * Demonstrate pros/cons of methods.
+  
