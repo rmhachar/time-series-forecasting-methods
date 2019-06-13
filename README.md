@@ -10,6 +10,7 @@ This repo compares boosting method performance when forecasting hourly energy co
 
 * Identify a method of optimally, algorithmically generating lagged factors.
 * Identify differences between methods:
+  * Determine most accurate method.
   * Describe why one method is more robust to another.
   * Describe penalty terms and their purpose.
   * Compare generalizability of different methods.
