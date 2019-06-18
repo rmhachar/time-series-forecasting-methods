@@ -6,9 +6,11 @@ This repo compares boosting method performance when forecasting hourly energy co
 * LightGBM
 * Random Forest Regression
 * ARIMA
+* RNN
 
 ### Goals:
 
+* Demonstrate the predictive value of lagged factors.
 * Identify a method of optimally, algorithmically generating lagged factors.
 * Identify differences between methods:
   * Determine most accurate method.
