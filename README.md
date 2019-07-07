@@ -6,7 +6,6 @@ This repo compares boosting method performance when forecasting hourly energy co
 * LightGBM
 * Random Forest Regression
 * ARIMA
-* RNN
 
 ### Goals:
 
@@ -21,4 +20,3 @@ This repo compares boosting method performance when forecasting hourly energy co
     * Autocorrelation of residuals
     * Perfomance of Nested Validation
   * Demonstrate pros/cons of methods.
-  
