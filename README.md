@@ -1,13 +1,13 @@
 # time-series-forecasting-methods
 This repo compares boosting method performance when forecasting hourly energy consumption. In addition to being compared to each other, the boosting methods are compared to an ARIMA model as a baseline.
 
-### Methods considered include:
+### Forecasting Methods
 * XGBoost
 * LightGBM
 * Random Forest Regression
 * ARIMA
 
-### Goals:
+### Goals
 
 * Demonstrate the predictive value of lagged factors.
 * Identify a method of optimally, algorithmically generating lagged factors.
@@ -28,5 +28,5 @@ Each individual notebook explores a different algorithm. The notebooks include:
 * Creating a Training Set and Testing Set
 * Creating Lagged Variables
 * Extracting Features
-* Application of a Forecasting Model
-* Analysis of the Forecasting Model
+* Application of a Forecasting Method
+* Analysis of the Forecasting Method
