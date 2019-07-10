@@ -20,3 +20,13 @@ This repo compares boosting method performance when forecasting hourly energy co
     * Autocorrelation of residuals
     * Perfomance of Nested Validation
   * Demonstrate pros/cons of methods.
+
+### Notebooks
+
+Each individual notebook explores a different algorithm. The notebooks include:
+* Basic EDA
+* Creating a Training Set and Testing Set
+* Creating Lagged Variables
+* Extracting Features
+* Application of a Forecasting Model
+* Analysis of the Forecasting Model
